@@ -2,7 +2,7 @@ package javaprojectOnStringPrograms;
 
 public class StringRevers {
 	
-	String S="Java is a programing language";
+	String S="Java is a good programing language";
 	String Rev="";
 	
 	public void Reversing_A_Srting()
