@@ -20,5 +20,4 @@ public class StringRevers {
 		StringRevers SR=new StringRevers();
 		SR.Reversing_A_Srting();	
 	}
-
 }
